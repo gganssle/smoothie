@@ -1,0 +1,70 @@
+Almond Mocha High Protein	345	9	1	80	51	42	37	30	195	2
+Gladiator® Chocolate	180	0	0	0	0	1	0	45	150	0
+Gladiator® Strawberry	180	0	0	0	0	1	0	45	150	0
+Gladiator® Vanilla	180	0	0	0	0	1	0	45	150	0
+Original High Protein Banana	314	9	1	79	45	32	23	27	297	4
+Original High Protein Chocolate	366	9	1	80	51	42	37	30	194	2
+Original High Protein Lemon	273	9	1	79	45	44	40	26	297	1
+Original High Protein Pineapple	314	9	1	80	45	29	23	27	315	2
+The Activator® Chocolate	340	1	0	5	11	67	55	19	119	5
+The Activator® Strawberry	493	1	0	5	7	105	89	19	209	8
+The Activator® Vanilla	343	1	0	5	7	67	54	18	209	5
+The Hulk Chocolate™	801	31	12	281	54	108	90	24	263	6
+The Hulk Strawberry™	964	32	13	286	87	145	125	25	288	8
+The Hulk Vanilla™	801	32	13	286	89	105	88	23	258	5
+Peanut Power Plus Chocolate™	698	26	3	224	25	98	63	24	491	6
+Peanut Power Plus Strawberry™	680	21	3	184	1	112	94	15	179	9
+Power Punch Plus®	448	1	0	10	10	97	86	11	59	6
+Lean1™ Chocolate	310	12	1	100	5	38	16	19	360	10
+Lean1™ Strawberry	270	5	1	45	5	39	25	16	270	7
+Lean1™ Pineapple Mango	340	6	1	50	5	54	40	17	270	6
+Lean1™ Vanilla	290	10	1	90	5	33	16	19	270	7
+Angel Food™	350	0	0	1	1	84	75	4	50	6
+Greek Yogurt Orange Vanilla	335	0	0	3	4	71	59	11	176	4
+Greek Yogurt Pineapple Mango	320	0	0	3	4	70	62	11	165	4
+Greek Yogurt Strawberry Blueberry	332	0	0	0	4	73	62	12	165	4
+Greek Yogurt Peach Papaya	340	1	0	10	2	73	57	12	160	4
+Island Impact®	310	1	0	4	6	73	65	3	142	1
+MangoFest™	285	0	0	0	0	72	59	0	10	1
+Slim-N-Trim Chocolate™	297	2	0	16	29	57	48	15	165	3
+Slim-N-Trim Orange-Vanilla™	208	1	0	8	11	46	36	7	259	0
+Slim-N-Trim Strawberry™	375	1	0	8	11	84	72	8	259	5
+Slim-N-Trim Vanilla™	253	1	0	8	11	53	42	7	259	3
+Strawberry X-Treme®	320	0	0	0	0	82	76	1	10	6
+The Shredder - Chocolate™	311	3	0	28	45	36	19	29	315	1
+The Shredder - Strawberry™	356	1	0	8	11	56	41	30	329	3
+The Shredder - Vanilla™	283	2	0	16	22	30	12	36	592	0
+Vegan - Nutty Super Grain	440	21	3	190	0	54	30	18	230	7
+Vegan - Dark Chocolate Banana	320	5	2	40	0	70	35	11	115	11
+Vegan - Mango Kale	300	5	0	50	0	57	38	10	110	6
+Açaí Adventure®	435	5	1	44	6	92	75	5	163	4
+Apple Kiwi Kale	277	0	0	1	0	68	62	1	109	2
+Berry Carrot Dream	278	0	0	1	0	68	58	1	153	5
+Berry Punch®	360	0	0	0	0	91	84	0	95	4
+Blueberry Heaven®	325	1	0	8	11	73	64	7	259	2
+Carrot Kale Dream	222	1	0	5	5	50	40	4	155	3
+Green Tea Tango®	282	3	2	28	16	52	40	8	190	2
+Immune Builder®	380	1	0	8	0	89	77	5	57	6
+Immune Builder® Orange	360	1	0	10	0	87	66	3	120	4
+Immune Builder® Mixed Berry	310	0	0	5	0	75	58	2	150	4
+Mangosteen Madness™	380	0	0	0	0	94	92	1	30	2
+Orange Ka-BAM®	469	0	0	0	0	117	108	1	190	3
+Pure Recharge™ - Mango Strawberry	210	0	0	0	0	52	50	0	120	2
+Pure Recharge™ - Strawberry	250	0	0	0	5	59	53	3	170	3
+Super Punch Plus®	390	0	0	5	0	95	79	1	190	4
+Veggie Avocado Pineapple	460	12	3	110	20	82	67	9	190	6
+Banana Berry Treat®	360	0	0	4	6	86	75	4	129	5
+Banana Boat®	477	4	6	32	21	101	77	12	319	3
+Caribbean Way®	395	0	0	0	0	97	89	1	4	6
+Lemon Twist Strawberry™	398	0	0	0	0	97	94	1	10	3
+Muscle Punch®	360	1	0	8	1	84	75	5	50	6
+Passion Passport®	395	0	0	0	0	96	93	1	13	2
+Peach Slice Plus®	400	0	0	1	1	94	90	4	65	4
+Pineapple Surf®	461	1	0	8	11	104	92	7	279	4
+Raspberry Collider™	338	0	0	1	0	86	74	1	102	4
+Strawberry-Kiwi Breeze®	376	0	0	4	6	90	84	4	131	3
+Yogurt D-Lite®	275	4	2	33	22	46	34	13	316	0
+Fruit Fusion	355	1	0	8	12	76	66	9	301	0
+Hearty Apple®	405	1	0	8	16	86	75	9	271	2
+Light and Fluffy®	395	0	0	0	0	99	89	1	0	6
+Pineapple Pleasure®	280	0	0	0	0	67	62	1	25	3
